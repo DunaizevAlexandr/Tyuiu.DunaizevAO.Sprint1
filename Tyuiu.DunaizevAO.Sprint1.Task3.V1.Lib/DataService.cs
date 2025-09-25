@@ -6,7 +6,7 @@ namespace Tyuiu.DunaizevAO.Sprint1.Task3.V1.Lib
     {
         public double CylinderVolume(double r, double h)
         {
-            double rounder = Math.Round(3.14 * r* r*h, 4);
+            double rounder = Math.Round(3.14 * r* r*h, 3);
             return rounder;
         }
     }

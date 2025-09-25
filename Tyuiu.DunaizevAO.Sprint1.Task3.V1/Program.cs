@@ -8,11 +8,11 @@ Console.WriteLine("*************************************************************
 
 double r;
 Console.WriteLine("Введите радиус цилиндра: ");
-r = Convert.ToInt32(Console.ReadLine());
+r = Convert.ToDouble(Console.ReadLine());
 
 double h;
 Console.WriteLine("Введите радиус цилиндра: ");
-h = Convert.ToInt32(Console.ReadLine());
+h = Convert.ToDouble(Console.ReadLine());
 
 
 Console.WriteLine("***************************************************************************");
